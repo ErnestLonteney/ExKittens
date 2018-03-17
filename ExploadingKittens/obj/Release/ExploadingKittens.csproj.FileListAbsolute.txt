@@ -1,0 +1,22 @@
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\bin\Release\ExploadingKittens.exe.config
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\bin\Release\ExploadingKittens.exe
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\bin\Release\ExploadingKittens.pdb
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.BackCardForm.resources
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.Game.resources
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.Properties.Resources.resources
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.WelcomeForm.resources
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.csproj.GenerateResource.Cache
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.exe
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.pdb
+D:\PProdjects\ExploadingKittens\ExploadingKittens\bin\Release\ExploadingKittens.exe.config
+D:\PProdjects\ExploadingKittens\ExploadingKittens\bin\Release\ExploadingKittens.exe
+D:\PProdjects\ExploadingKittens\ExploadingKittens\bin\Release\ExploadingKittens.pdb
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.BackCardForm.resources
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.Game.resources
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.Properties.Resources.resources
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.WelcomeForm.resources
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.csproj.GenerateResource.Cache
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.exe
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.pdb
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.csprojResolveAssemblyReference.cache
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Release\ExploadingKittens.csprojResolveAssemblyReference.cache

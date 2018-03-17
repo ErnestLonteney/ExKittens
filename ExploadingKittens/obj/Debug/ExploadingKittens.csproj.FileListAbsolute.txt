@@ -1,0 +1,32 @@
+D:\PProdjects\Exloading Kittens\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.csprojResolveAssemblyReference.cache
+D:\PProdjects\Exloading Kittens\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.Game.resources
+D:\PProdjects\Exloading Kittens\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.Properties.Resources.resources
+D:\PProdjects\Exloading Kittens\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.csproj.GenerateResource.Cache
+D:\PProdjects\Exloading Kittens\ExploadingKittens\ExploadingKittens\bin\Debug\ExploadingKittens.exe.config
+D:\PProdjects\Exloading Kittens\ExploadingKittens\ExploadingKittens\bin\Debug\ExploadingKittens.exe
+D:\PProdjects\Exloading Kittens\ExploadingKittens\ExploadingKittens\bin\Debug\ExploadingKittens.pdb
+D:\PProdjects\Exloading Kittens\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.exe
+D:\PProdjects\Exloading Kittens\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.pdb
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.csprojResolveAssemblyReference.cache
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.Game.resources
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.Properties.Resources.resources
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.csproj.GenerateResource.Cache
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.exe
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.pdb
+D:\PProdjects\ExploadingKittens\ExploadingKittens\bin\Debug\ExploadingKittens.exe.config
+D:\PProdjects\ExploadingKittens\ExploadingKittens\bin\Debug\ExploadingKittens.exe
+D:\PProdjects\ExploadingKittens\ExploadingKittens\bin\Debug\ExploadingKittens.pdb
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\bin\Debug\ExploadingKittens.exe.config
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\bin\Debug\ExploadingKittens.exe
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\bin\Debug\ExploadingKittens.pdb
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.csprojResolveAssemblyReference.cache
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.Game.resources
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.Properties.Resources.resources
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.csproj.GenerateResource.Cache
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.exe
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.pdb
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.WelcomeForm.resources
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.BackCardForm.resources
+D:\PProdjects\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.WelcomeForm.resources
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.BackCardForm.resources
+D:\Програми\Мої програми\ExploadingKittens\ExploadingKittens\obj\Debug\ExploadingKittens.csproj.CoreCompileInputs.cache
